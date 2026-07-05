@@ -3,7 +3,7 @@
 A hands-on implementation of a Large Language Model built entirely from scratch — covering data preparation, transformer architecture, pretraining, and finetuning.
  
 ---
- 
+
 ## Overview
  
 This project walks through the full lifecycle of building an LLM, split into three progressive stages:
