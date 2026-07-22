@@ -153,7 +153,7 @@ jupyter notebook stage1/
  
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762) — Vaswani et al.
 - [GPT-2 Paper](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) — Radford et al.
-- *Build a Large Language Model (From Scratch)* — Sebastian Raschka
+- [Build a Large Language Model (From Scratch) — Sebastian Raschka]([Raschka S. - Build a Large Language Model - 2025.pdf](https://github.com/dhyeyinf/LLM_from_scratch/blob/f01af2941a9ac119b964fb5d9f7772c49b415254/Raschka%20S.%20-%20Build%20a%20Large%20Language%20Model%20-%202025.pdf))
 ---
  
 ## License
