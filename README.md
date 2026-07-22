@@ -70,6 +70,8 @@ Pretrain the LLM on unlabeled text data to build a general-purpose foundational 
 | **Load Pretrained Weights** | Bootstrap training using publicly available pretrained weights |
  
 The output of this stage is a **Foundational Model** — a general LLM capable of next-token prediction.
+
+Code: [`stage2/`](./stage2)
  
 ---
  
