@@ -101,12 +101,12 @@ LLM_from_scratch/
 │   ├── attention_mechanism.ipynb  # Self-attention implementation
 │   └── llm_architecture.ipynb     # Full transformer architecture
 ├── stage2/                        # Coming soon
-│   ├── training_loop.ipynb
-│   ├── model_evaluation.ipynb
-│   └── load_pretrained_weights.ipynb
+│   ├── 
+│   ├── 
+│   └── 
 ├── stage3/                        # Coming soon
-│   ├── classifier_finetune.ipynb
-│   └── assistant_finetune.ipynb
+│   ├── 
+│   └── 
 └── README.md
 ```
  
