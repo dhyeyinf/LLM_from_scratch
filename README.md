@@ -89,7 +89,9 @@ flowchart LR
 |---------|-------------|
 | **Classifier** | Add a classification head and finetune on labeled data |
 | **Personal Assistant** | Instruction-tune the model to follow human prompts |
- 
+
+Code: [`stage3/`](./stage3)
+
 ---
  
 ## Project Structure
